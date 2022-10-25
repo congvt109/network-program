@@ -54,8 +54,9 @@ Node *deleteNode(Node *head, char *username) {
 			free(head);
 			head = tmp;
 		}
-		else
+		else{
 			head -> next = deleteNode(head -> next, username);
+        }
 	}
 	return head;
 }
