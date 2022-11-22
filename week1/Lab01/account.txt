@@ -1,0 +1,8 @@
+taicong 1233 4
+internet 33 1
+vtaicong 222 2
+hello 222 1
+test1 22 0
+test1 33 1
+hust 123 0
+hust1 222 0
